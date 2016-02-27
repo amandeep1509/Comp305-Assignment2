@@ -143,13 +143,20 @@ public class HeroController : MonoBehaviour
         }
 
 
-    if(other.gameObject.CompareTag("Gift")) {
+    if(other.gameObject.CompareTag("Gift") ) {
 		//	this._coinSound.Play ();
 
             Destroy(other.gameObject);
 			this.gameController.ScoreValue += 10;
 		}
-}
+        if (other.gameObject.CompareTag("ball"))
+        {
+            //	this._coinSound.Play ();
+
+            Destroy(other.gameObject);
+            this.gameController.ScoreValue += 10;
+        }
+    }
 
 
 // PRIVATE METHODS

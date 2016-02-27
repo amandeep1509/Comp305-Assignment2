@@ -1,0 +1,389 @@
+fileFormatVersion: 2
+guid: 32c6be797ddb07140ab9a1f5b056d946
+timeCreated: 1456547632
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: RS2_0
+    21300002: RS2_1
+    21300004: RS2_2
+    21300006: RS2_3
+    21300008: RS2_4
+    21300010: RS2_5
+    21300012: RS2_6
+    21300014: RS2_7
+    21300016: RS2_8
+    21300018: RS2_9
+    21300020: RS2_10
+    21300022: RS2_11
+    21300024: RS2_12
+    21300026: RS2_13
+    21300028: RS2_14
+    21300030: RS2_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: RS2_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 467
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 56}
+        - {x: -43, y: 21}
+        - {x: -43, y: -34}
+        - {x: -33, y: -56}
+        - {x: 33, y: -56}
+        - {x: 43, y: -51}
+        - {x: 43, y: 37}
+        - {x: 26, y: 56}
+    - name: RS2_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 469
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 56.5}
+        - {x: -40.5, y: 26.5}
+        - {x: -40.5, y: -40.5}
+        - {x: -34.5, y: -56.5}
+        - {x: 40.5, y: -56.5}
+        - {x: 40.5, y: 50.5}
+        - {x: 34.5, y: 56.5}
+    - name: RS2_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 468
+        width: 84
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 55.5}
+        - {x: -42, y: 39.5}
+        - {x: -42, y: -37.5}
+        - {x: -39, y: -55.5}
+        - {x: 42, y: -55.5}
+        - {x: 42, y: 47.5}
+        - {x: 38, y: 55.5}
+    - name: RS2_3
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 465
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.5, y: 56.5}
+        - {x: -6.5, y: 56.5}
+        - {x: -43.5, y: 38.5}
+        - {x: -43.5, y: -19.5}
+        - {x: -25.5, y: -56.5}
+        - {x: 37.5, y: -56.5}
+        - {x: 37.5, y: -54.5}
+        - {x: 43.5, y: -39.5}
+    - name: RS2_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 315
+        width: 87
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 56}
+        - {x: -43.5, y: 33}
+        - {x: -43.5, y: -24}
+        - {x: -18.5, y: -56}
+        - {x: 39.5, y: -56}
+        - {x: 43.5, y: -43}
+        - {x: 43.5, y: 51}
+        - {x: 29.5, y: 56}
+    - name: RS2_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 315
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 56}
+        - {x: -42, y: 28}
+        - {x: -44, y: 20}
+        - {x: -44, y: -23}
+        - {x: -7, y: -56}
+        - {x: 34, y: -56}
+        - {x: 44, y: -34}
+        - {x: 44, y: 41}
+        - {x: 40, y: 56}
+    - name: RS2_6
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 315
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -41.5}
+        - {x: 12.5, y: -40.5}
+        - {x: 15.5, y: -40.5}
+        - {x: 26.5, y: -43.5}
+        - {x: 44.5, y: -54.5}
+        - {x: 44.5, y: 55.5}
+        - {x: -4.5, y: 55.5}
+        - {x: -44.5, y: 34.5}
+        - {x: -44.5, y: -18.5}
+        - {x: -5.5, y: -55.5}
+        - {x: 22.5, y: -55.5}
+        - {x: 25.5, y: -53.5}
+        - {x: 24.5, y: -47.5}
+        - {x: 23.5, y: -44.5}
+    - name: RS2_7
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 319
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 54}
+        - {x: -20, y: 54}
+        - {x: -42, y: 33}
+        - {x: -46, y: 20}
+        - {x: -46, y: -24}
+        - {x: -22, y: -52}
+        - {x: -15, y: -54}
+        - {x: 19, y: -54}
+        - {x: 41, y: -45}
+        - {x: 46, y: -34}
+        - {x: 46, y: 51}
+    - name: RS2_8
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 172
+        width: 86
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 53.5}
+        - {x: -43, y: 21.5}
+        - {x: -43, y: -38.5}
+        - {x: -28, y: -53.5}
+        - {x: 40, y: -53.5}
+        - {x: 43, y: -52.5}
+        - {x: 43, y: 35.5}
+        - {x: 26, y: 53.5}
+    - name: RS2_9
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 171
+        width: 80
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 55.5}
+        - {x: -16, y: 54.5}
+        - {x: -40, y: 35.5}
+        - {x: -40, y: -23.5}
+        - {x: -27, y: -55.5}
+        - {x: 34, y: -55.5}
+        - {x: 40, y: -47.5}
+        - {x: 40, y: 41.5}
+        - {x: 33, y: 55.5}
+    - name: RS2_10
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 167
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 56}
+        - {x: -42, y: 41}
+        - {x: -42, y: -43}
+        - {x: -13, y: -56}
+        - {x: 40, y: -56}
+        - {x: 42, y: -49}
+        - {x: 42, y: 42}
+        - {x: 28, y: 56}
+    - name: RS2_11
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 164
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.5, y: 57}
+        - {x: -24.5, y: 51}
+        - {x: -40.5, y: 32}
+        - {x: -43.5, y: 22}
+        - {x: -43.5, y: -12}
+        - {x: -5.5, y: -57}
+        - {x: 41.5, y: -57}
+        - {x: 43.5, y: -43}
+        - {x: 43.5, y: 57}
+    - name: RS2_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 13
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 57}
+        - {x: -43.5, y: 39}
+        - {x: -43.5, y: -9}
+        - {x: -11.5, y: -57}
+        - {x: 30.5, y: -57}
+        - {x: 43.5, y: -6}
+        - {x: 43.5, y: 54}
+        - {x: 41.5, y: 57}
+    - name: RS2_13
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 13
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 57}
+        - {x: -5, y: 57}
+        - {x: -41, y: 29}
+        - {x: -43, y: 21}
+        - {x: -43, y: -13}
+        - {x: -13, y: -57}
+        - {x: 27, y: -57}
+        - {x: 43, y: -41}
+        - {x: 43, y: 45}
+        - {x: 36, y: 56}
+    - name: RS2_14
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 12
+        width: 91
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 57}
+        - {x: -44.5, y: 25}
+        - {x: -45.5, y: 22}
+        - {x: -45.5, y: -15}
+        - {x: -23.5, y: -57}
+        - {x: 38.5, y: -57}
+        - {x: 45.5, y: -53}
+        - {x: 45.5, y: 30}
+        - {x: 38.5, y: 57}
+    - name: RS2_15
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 14
+        width: 93
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 56.5}
+        - {x: -46.5, y: 26.5}
+        - {x: -46.5, y: -28.5}
+        - {x: -35.5, y: -56.5}
+        - {x: 46.5, y: -56.5}
+        - {x: 46.5, y: 51.5}
+        - {x: 33.5, y: 56.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
