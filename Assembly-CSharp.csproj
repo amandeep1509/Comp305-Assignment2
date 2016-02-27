@@ -48,6 +48,7 @@
      <Compile Include="Assets\_Scripts\GameController.cs" />
      <Compile Include="Assets\_Scripts\HeroController.cs" />
      <None Include="Assets\Editor\SettingsTexturePackerImporter.txt" />
+     <None Include="Assets\Sprite Pack #1 - Tap and Fly\!Readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
