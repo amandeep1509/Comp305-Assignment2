@@ -125,8 +125,8 @@ public class HeroController : MonoBehaviour
             
         }
         else {
-            // call the "jump" clip
-            this._animator.SetInteger("AnimState", 1);
+            
+            this._animator.SetInteger("AnimState", 0);
         }
 
       //  Debug.Log(forceX);

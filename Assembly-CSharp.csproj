@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{408E2E6F-7CFC-5ABD-33D3-EA84C056C44C}</ProjectGuid>
+    <ProjectGuid>{693A879E-8D39-3F3D-8B9C-3BD325C3156C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -48,7 +48,6 @@
      <Compile Include="Assets\_Scripts\GameController.cs" />
      <Compile Include="Assets\_Scripts\HeroController.cs" />
      <None Include="Assets\Editor\SettingsTexturePackerImporter.txt" />
-     <None Include="Assets\Sprite Pack #1 - Tap and Fly\!Readme.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
