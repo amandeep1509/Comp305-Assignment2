@@ -126,7 +126,7 @@ public class HeroController : MonoBehaviour
         }
         else {
             
-            this._animator.SetInteger("AnimState", 0);
+            this._animator.SetInteger("AnimState", 2);
         }
 
       //  Debug.Log(forceX);
